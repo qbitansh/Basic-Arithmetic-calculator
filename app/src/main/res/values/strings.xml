@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="first_number">First number</string>
+    <string name="button">Button</string>
+    <string name="second_number">second number</string>
+    <string name="add" />
+    <string name="adds">Add</string>
+    <string name="asd">+</string>
+    <string name="guna">*</string>
+    <string name="ghata">-</string>
+    <string name="bhaag">/</string>
+    <string name="clc">clc</string>
+    <string name="todo">TODO</string>
+    <string name="p">TODO</string>
+    <string name="all_rights_are_reserved">All rights are reserved</string>
+    <string name="ooo">TODO</string>
+    <string name="all_rigts_are_reserved">All rigts are reserved</string>
+</resources>
